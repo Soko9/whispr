@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Other
+*.env
+*.xlsx
+pubspec.lock
+/linux/
+/macos/
+/windows/
+/ios/
+/android/
+/web/
